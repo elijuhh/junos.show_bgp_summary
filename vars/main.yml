@@ -1,0 +1,4 @@
+---
+ansible_user: "{{ ise_user }}"
+ansible_password: "{{ ise_password }}"
+ansible_network_os: junos
